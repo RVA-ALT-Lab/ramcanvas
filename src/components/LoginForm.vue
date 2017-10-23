@@ -3,7 +3,7 @@
     <h1>Login</h1>
     <h2>Essential Links</h2>
     <ul>
-      <router-link to="/">Home</router-link>
+      <router-link to="/"><span class="glyphicon glyphicon-home"></span>Home</router-link>
     </ul>
   </div>
 </template>
