@@ -25,6 +25,10 @@ export default {
         {
           name: 'Register',
           path: '/register'
+        },
+        {
+          name: 'List Projects',
+          path: '/list-projects'
         }
       ]
     }
