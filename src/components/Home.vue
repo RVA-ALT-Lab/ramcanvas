@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <h1>Home</h1>
-    <h2>Essential Links</h2>
+    <h2>Welcome to the Ram Canvas experience!</h2>
   </div>
 </template>
 
